@@ -39,7 +39,7 @@ Notebook Jupypter used to answer the questions:
 
 1. .
 
-The main findings of the code can also be found at the post available [here](https://medium.com/p/51c1d62ea24b).
+The main findings of the code can also be found at the post available [here](https://medium.com/p/5ac715c5bfcb).
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
