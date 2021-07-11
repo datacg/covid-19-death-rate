@@ -1,5 +1,5 @@
-Impact of Coronavirus Vaccinations (COVID-19) in Brazil
-=====================================
+Understanding the Mortality Rate of COVID-19
+============================================
 
 ### Table of Contents
 
