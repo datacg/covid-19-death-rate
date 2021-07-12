@@ -39,7 +39,7 @@ Notebook Jupypter used to answer the questions:
 
 1. .
 
-The main findings of the code can also be found at the post available [here](https://medium.com/p/5ac715c5bfcb).
+The main findings of the study can also be found at the post available [here](https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb).
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
