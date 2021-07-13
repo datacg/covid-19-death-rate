@@ -37,12 +37,12 @@ The proposal is to explain some issues:
 
 Data files avaible in this repository:
 
-- "covid.csv" [(Coronavirus (COVID-19) Deaths (Our World in Data)](https://ourworldindata.org/covid-deaths/))
-- "gdp.csv" [(Gross domestic product — GDP (The World Bank)](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD))
-- "cpi.csv" [(Corruption Perception Index 2020 (Transparency International)](https://www.transparency.org/en/cpi/2020/index/bra))
-- "edu.csv" [(Education Index (Human Development Reports)](http://hdr.undp.org/en/indicators/103706))
-- "health.csv" [(The 2021 STC Health Index (Hudson's Global Residence Index)](https://globalresidenceindex.com/hnwi-index/health-index/))
-- "demo.csv" [(Democracy Index 2020 (The Economist Intelligence Unit)](https://www.eiu.com/n/campaigns/democracy-index-2020/))
+- ["covid.csv" (Coronavirus (COVID-19) Deaths (Our World in Data)](https://ourworldindata.org/covid-deaths/)
+- ["gdp.csv" (Gross domestic product — GDP (The World Bank)](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+- ["cpi.csv" (Corruption Perception Index 2020 (Transparency International)](https://www.transparency.org/en/cpi/2020/index/bra)
+- ["edu.csv" (Education Index (Human Development Reports)](http://hdr.undp.org/en/indicators/103706)
+- ["health.csv" (The 2021 STC Health Index (Hudson's Global Residence Index)](https://globalresidenceindex.com/hnwi-index/health-index/)
+- ["demo.csv" (Democracy Index 2020 (The Economist Intelligence Unit)](https://www.eiu.com/n/campaigns/democracy-index-2020/)
 
 There is 1 notebooks available here to showcase work related to the above questions.  The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
