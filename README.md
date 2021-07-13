@@ -48,7 +48,7 @@ There is 1 notebooks available here to showcase work related to the above questi
 
 Notebook Jupypter used to answer the questions:
 
-- "covid-19-death-rate.ipynb"
+- ["covid-19-death-rate.ipynb"](https://github.com/datacgi/covid-19-death-rate/blob/main/covid-19-death-rate.ipynb)
 
 ## Results<a name="results"></a>
 
