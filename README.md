@@ -29,11 +29,11 @@ This study aims to scientifically understand the reason for the different mortal
 
 The proposal is to explain the following issues:
 
-1. Economic: Do richer countries perform better against the virus than emerging ones?
-2. Corruption: Do the most corrupt countries have more deaths?
-3. Health: Are countries with the most investments in health coping better with the pandemic?
-4. Education: Does the quality of education interfere with the death rate?
-5. Government regime: Is democracy more prepared to save lives than authoritarian regimes?
+1. <b>Economic</b>: Do richer countries perform better against the virus than emerging ones?
+2. <b>Corruption</b>: Do the most corrupt countries have more deaths?
+3. <b>Health</b>: Are countries with the most investments in health coping better with the pandemic?
+4. <b>Education</b>: Does the quality of education interfere with the death rate?
+5. <b>Government regime</b>: Is democracy more prepared to save lives than authoritarian regimes?
 
 ## File Descriptions <a name="files"></a>
 
