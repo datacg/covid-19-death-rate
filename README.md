@@ -15,7 +15,9 @@ by Juliano Oliveira | July 12, 2021
 
 ## Installation <a name="installation"></a>
 
-The application is only a file from Jupyter Notebook (Python 3.*).
+The application is only a Jupyter Notebook file (Python 3.*).
+
+- ["covid-19-death-rate.ipynb"](https://github.com/datacgi/covid-19-death-rate/blob/main/covid-19-death-rate.ipynb)
 
 ## About this Project<a name="motivation"></a>
 
@@ -45,10 +47,6 @@ Data files avaible in this repository:
 - ["demo.csv" (Democracy Index 2020 (The Economist Intelligence Unit)](https://www.eiu.com/n/campaigns/democracy-index-2020/)
 
 There is 1 notebooks available here to showcase work related to the above questions.  The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-Notebook Jupypter used to answer the questions:
-
-- ["covid-19-death-rate.ipynb"](https://github.com/datacgi/covid-19-death-rate/blob/main/covid-19-death-rate.ipynb)
 
 ## Results<a name="results"></a>
 
