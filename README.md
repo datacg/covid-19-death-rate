@@ -54,7 +54,8 @@ Notebook Jupypter used to answer the questions:
 
 By crossing and clustering the data of these five aspects of the countries (economy, education, health, corruption, and democracy), it was possible to find the correlations between them and, thus, understand the different mortality rates of the countries about COVID-19.
 
-The main findings of the study can also be found at the post available [here](https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb).
+All the explanation and findings are available in my Medium account [https://datacgi.medium.com](https://datacgi.medium.com), at the folowing post:
+[https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb)](https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb).
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
