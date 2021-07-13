@@ -25,7 +25,7 @@ The Coronavirus pandemic (COVID-19) took the world by surprise and, despite the 
 
 This study aims to scientifically understand the reason for the different mortality rates caused by COVID-19 globally, starting from the five main aspects that affect its lethality in the countries: economy, corruption, education, health, and government regime.
 
-The proposal is to explain some issues:
+The proposal is to explain five question:
 
 1. Economic: Do richer countries perform better against the virus than emerging ones?
 2. Corruption: Do the most corrupt countries have more deaths?
