@@ -23,11 +23,11 @@ The application is only a Jupyter Notebook file (Python 3.*):
 
 This project originated from the Udacity's Nanodregree Data Science Program, to attend the activity "Write a Data Science Blog Post".
 
-The Coronavirus pandemic (COVID-19) took the world by surprise and, despite the advances we have made in dealing with the virus, we still have a lot to learn. However, since last year, we have been produced countless data that can help us understand what is happening.
+The Coronavirus pandemic (COVID-19) took the world by surprise and, despite the advances we have made in dealing with the virus, we still have a lot to learn. However, since last year, the world has produced countless data that can help us understand what is happening and why.
 
 This study aims to scientifically understand the reason for the different mortality rates caused by COVID-19 globally, starting from the five main aspects that affect its lethality in the countries: economy, corruption, education, health, and government regime.
 
-The proposal is to explain five question:
+The proposal is to explain the following issues:
 
 1. Economic: Do richer countries perform better against the virus than emerging ones?
 2. Corruption: Do the most corrupt countries have more deaths?
