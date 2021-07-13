@@ -15,7 +15,7 @@ by Juliano Oliveira | July 12, 2021
 
 ## Installation <a name="installation"></a>
 
-The application is only a notebook file from Jupyter Notebook, with Python 3.*.
+The application is only a notebook file from Jupyter Notebook (Python 3.*).
 
 ## About this Project<a name="motivation"></a>
 
