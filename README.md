@@ -15,7 +15,7 @@ by Juliano Oliveira | July 12, 2021
 
 ## Installation <a name="installation"></a>
 
-The application is only a Jupyter Notebook file (Python 3.*).
+The application is only a Jupyter Notebook file (Python 3.*):
 
 - ["covid-19-death-rate.ipynb"](https://github.com/datacgi/covid-19-death-rate/blob/main/covid-19-death-rate.ipynb)
 
