@@ -1,7 +1,9 @@
-<Sorry, this file is being updated now! Within moments it is ready!>
+COVID-19 Death Rate
+===================
 
-Understanding the Mortality Rate of COVID-19
-============================================
+Udacity Data Scientist Nanodegree Program
+Project "Write a Data Science Blog Post"
+by Juliano Oliveira | July 12, 2021
 
 ### Table of Contents
 
@@ -13,38 +15,49 @@ Understanding the Mortality Rate of COVID-19
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+The application is only a notebook file from Jupyter Notebook, with Python 3.*.
 
 ## About this Project<a name="motivation"></a>
 
 This project originated from the Udacity's Nanodregree Data Science Program, to attend the activity "Write a Data Science Blog Post".
 
-The preliminary analysis will attempt to answer 3 questions about COVID-19 vaccination in Brazil:
+The Coronavirus pandemic (COVID-19) took the world by surprise and, despite the advances we have made in dealing with the virus, we still have a lot to learn. However, since last year, we have been produced countless data that can help us understand what is happening.
 
-1. What has been the proportional efficacy of vaccination in Brazil compared to the United States?
-2. How many lives would have been saved if Brazil had adopted vaccination and preventive measures similar to those in the United States?
-3. According to the actual Brazilian vaccination curve, how many people will die before the population is fully vaccinated? 
+This study aims to scientifically understand the reason for the different mortality rates caused by COVID-19 globally, starting from the five main aspects that affect its lethality in the countries: economy, corruption, education, health, and government regime.
+
+The proposal is to explain some issues:
+
+1. Economic: Do richer countries perform better against the virus than emerging ones?
+2. Corruption: Do the most corrupt countries have more deaths?
+3. Health: Are countries with the most investments in health coping better with the pandemic?
+4. Education: Does the quality of education interfere with the death rate?
+5. Government regime: Is democracy more prepared to save lives than authoritarian regimes?
 
 ## File Descriptions <a name="files"></a>
 
 Data files avaible in this repository:
 
-- "owid-covid-data.csv" (from [Our World in Data](https://ourworldindata.org/covid-vaccinations)).
+- "covid.csv" [(Coronavirus (COVID-19) Deaths (Our World in Data)](https://ourworldindata.org/covid-deaths/))
+- "gdp.csv" [(Gross domestic product — GDP (The World Bank)](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD))
+- "cpi.csv" [(Corruption Perception Index 2020 (Transparency International)](https://www.transparency.org/en/cpi/2020/index/bra))
+- "edu.csv" [(Education Index (Human Development Reports)](http://hdr.undp.org/en/indicators/103706))
+- "health.csv" [(The 2021 STC Health Index (Hudson's Global Residence Index)](https://globalresidenceindex.com/hnwi-index/health-index/))
+- "demo.csv" [(Democracy Index 2020 (The Economist Intelligence Unit)](https://www.eiu.com/n/campaigns/democracy-index-2020/))
 
 There is 1 notebooks available here to showcase work related to the above questions.  The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 Notebook Jupypter used to answer the questions:
 
-- "owid-covid-data.ipynb"
+- "covid-19-death-rate.ipynb"
 
 ## Results<a name="results"></a>
 
-1. .
+By crossing and clustering the data of these five aspects of the countries (economy, education, health, corruption, and democracy), it was possible to find the correlations between them and, thus, understand the different mortality rates of the countries about COVID-19.
 
 The main findings of the study can also be found at the post available [here](https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb).
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
-This project is based on datasets from [Our World in Data](https://ourworldindata.org).
+I developed this project for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging me to develop this work, my wife and daughter for giving me the support I need to study full time, and my teacher and friend Rodrigo Veloso for sharing his knowledge with me.
 
-Article and code written by Juliano Oliveira. Feel free to use it!
+Juliano Oliveira
