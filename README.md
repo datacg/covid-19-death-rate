@@ -25,7 +25,7 @@ This project originated from the Udacity's Nanodregree Data Science Program, to 
 
 The Coronavirus pandemic (COVID-19) took the world by surprise and, despite the advances we have made in dealing with the virus, we still have a lot to learn. However, since last year, the world has produced countless data that can help us understand what is happening and why.
 
-This study aims to apply Data Science techniques to understand why the different mortality rates caused by COVID-19 at a global level, based on the five aspects that affect its lethality: economy, corruption, education, health, and government regime.
+This study aims to apply Data Science techniques to understand the different mortality rates caused by COVID-19 at a global level, based on the five aspects that affect its lethality: economy, corruption, education, health, and government regime.
 
 The proposal is to explain the following issues:
 
