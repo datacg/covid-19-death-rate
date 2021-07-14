@@ -57,6 +57,6 @@ All the explanation and findings are available in my Medium account [https://dat
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
-I developed this project for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging me to develop this work, my wife and daughter for giving me the support I need to study full time, and my teacher and friend Rodrigo Veloso for sharing his knowledge with me.
+I developed this project for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging me to develop this work, my wife and daughter for giving me the support I need to study full time, and my programming teacher and friend Rodrigo Veloso for sharing his knowledge with me.
 
 Juliano Oliveira
