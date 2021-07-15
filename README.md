@@ -53,7 +53,7 @@ There is 1 notebooks available here to showcase work related to the above questi
 By crossing and clustering the data of these five aspects of the countries (economy, education, health, corruption, and democracy), it was possible to find the correlations between them and, thus, understand the different mortality rates of the countries about COVID-19.
 
 All the explanation and findings are available in my Medium account [https://datacgi.medium.com](https://datacgi.medium.com), at the folowing post:
-[https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb)](https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb).
+[https://datacgi.medium.com/understanding-the-mortality-rate-of-covid-19-5ac715c5bfcb)](https://datacgi.medium.com/five-aspects-affecting-covid-19-death-rate-9f5758a62ef1).
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
