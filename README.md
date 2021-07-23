@@ -23,7 +23,7 @@ The application is only a Jupyter Notebook file (Python 3.*):
 
 This project originated from the Udacity's Nanodregree Data Science Program, to attend the activity "Write a Data Science Blog Post".
 
-The Coronavirus pandemic (COVID-19) took the world by surprise and, despite the advances we have made in dealing with the virus, we still have a lot to learn. However, since last year, the world has produced countless data that can help us understand what is happening and why.
+The Coronavirus Disease (COVID-19) pandemic took the world by surprise and, despite the advances we have made in dealing with the virus, we still have a lot to learn. However, since last year, the world has produced countless data that can help us understand what is happening and why.
 
 This study aims to apply Data Science techniques to understand the different mortality rates caused by COVID-19 at a global level, based on the five aspects that affect its lethality: economy, corruption, education, health, and government regime.
 
@@ -33,7 +33,7 @@ The proposal is to explain the following issues:
 2. <b>Corruption</b>: Do the most corrupt countries have more deaths?
 3. <b>Health</b>: Are countries with the most investments in health coping better with the pandemic?
 4. <b>Education</b>: Does the quality of education interfere with the death rate?
-5. <b>Government regime</b>: Is democracy more prepared to save lives than authoritarian regimes?
+5. <b>Government</b>: Is democracy more prepared to save lives than authoritarian regimes?
 
 ## File Descriptions <a name="files"></a>
 
@@ -57,6 +57,6 @@ All the explanation and findings are available in my Medium account [https://dat
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
-I developed this project for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging me to develop this work, my wife and daughter for giving me the support I need to study full time, and my programming teacher and friend Rodrigo Veloso for sharing his knowledge with me.
+I developed this study for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging and guiding me to develop this work, my wife and daughter for giving me the support I need to study full time, and my programming teacher and friend Rodrigo Veloso for sharing his knowledge with me.
 
 Juliano Oliveira
