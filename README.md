@@ -15,7 +15,7 @@ by Juliano Oliveira | July 12, 2021
 
 ## Installation <a name="installation"></a>
 
-There is no installation. The application is just a Jupyter Notebook (Python 3. *) file:
+There is no installation, just this Jupyter Notebook (Python 3.*) file:
 
 - ["covid-19-death-rate.ipynb"](https://github.com/datacgi/covid-19-death-rate/blob/main/covid-19-death-rate.ipynb)
 
