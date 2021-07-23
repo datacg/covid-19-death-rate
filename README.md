@@ -15,7 +15,7 @@ by Juliano Oliveira | July 12, 2021
 
 ## Installation <a name="installation"></a>
 
-The application is only a Jupyter Notebook file (Python 3.*):
+There is no installation. The application is just a Jupyter Notebook (Python 3. *) file:
 
 - ["covid-19-death-rate.ipynb"](https://github.com/datacgi/covid-19-death-rate/blob/main/covid-19-death-rate.ipynb)
 
@@ -37,7 +37,7 @@ The proposal is to explain the following issues:
 
 ## File Descriptions <a name="files"></a>
 
-Data files avaible in this repository:
+Datasets available in this repository:
 
 - ["covid.csv" (Coronavirus (COVID-19) Deaths (Our World in Data)](https://ourworldindata.org/covid-deaths/)
 - ["gdp.csv" (Gross domestic product — GDP (The World Bank)](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
@@ -46,11 +46,11 @@ Data files avaible in this repository:
 - ["health.csv" (The 2021 STC Health Index (Hudson's Global Residence Index)](https://globalresidenceindex.com/hnwi-index/health-index/)
 - ["demo.csv" (Democracy Index 2020 (The Economist Intelligence Unit)](https://www.eiu.com/n/campaigns/democracy-index-2020/)
 
-There is 1 notebooks available here to showcase work related to the above questions.  The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+The notebook file is more technical. I answered the questions following the CRISP-DM Process (1. Understanding Business, 2. Understanding Data, 3. Preparing Data, 4. Modeling Data, 5. Evaluate the Results, and 6. Implement). You can find all analyzes of the data and the conclusion in the post (link below).  
 
 ## Results<a name="results"></a>
 
-By crossing and clustering the data of these five aspects of the countries (economy, education, health, corruption, and democracy), it was possible to find the correlations between them and, thus, understand the different mortality rates of the countries about COVID-19.
+By crossing and grouping the data from these five aspects of the countries (economy, education, health, corruption, and democracy), it was possible to analyze the correlations between them and, thus, understand the different mortality rates of COVID-19 in the world.
 
 All the explanation and findings are available in my Medium account [https://datacgi.medium.com](https://datacgi.medium.com), at the folowing post:
 [https://datacgi.medium.com/five-aspects-affecting-covid-19-death-rate-9f5758a62ef1)](https://datacgi.medium.com/five-aspects-affecting-covid-19-death-rate-9f5758a62ef1).
