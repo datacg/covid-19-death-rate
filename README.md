@@ -23,9 +23,7 @@ There is no installation, just this Jupyter Notebook (Python 3.*) file:
 
 This project originated from the Udacity's Nanodregree Data Science Program, to attend the activity "Write a Data Science Blog Post".
 
-The Coronavirus Disease (COVID-19) pandemic took the world by surprise and, despite the advances we have made in dealing with the virus, we still have a lot to learn. However, since last year, the world has produced countless data that can help us understand what is happening and why.
-
-This study aims to apply Data Science techniques to understand the different mortality rates caused by COVID-19 at a global level, based on the five aspects that affect its lethality: economy, corruption, education, health, and government regime.
+The COVID-19 pandemic has had an unprecedented impact on public health, economies, and governance worldwide. However, mortality rates have varied significantly from country to country, indicating that the effects of the virus are not solely biological but also influenced by societal structures. This study identifies five key aspects that play a crucial role in determining the death rate due to COVID-19: economy, corruption, education, health, and government regime. By analyzing these factors, we can better understand how different nations have responded to the pandemic and why some have faced higher mortality rates than others.
 
 The proposal is to explain the following issues:
 
@@ -57,6 +55,6 @@ All the explanation and findings are available in my Medium account [https://dat
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
-I developed this study for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging and guiding me to develop this work, my wife and daughter for giving me the support I need to study full time, and my programming teacher and friend Rodrigo Veloso for sharing his knowledge with me.
+This article was developed for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging to develop this work, my family for giving me the support I need to study, and my teacher and friend Rodrigo Veloso for his guidance.
 
 Juliano Oliveira
