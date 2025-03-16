@@ -1,5 +1,5 @@
-COVID-19 Death Rate
-===================
+Five Aspects Affecting COVID-19 Death Rate
+==========================================
 
 Udacity Data Scientist Nanodegree Program
 Project "Write a Data Science Blog Post"
