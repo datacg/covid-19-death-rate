@@ -56,6 +56,6 @@ All the explanation and findings are available at the folowing posts:
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
-This article was developed for the “Write a Data Science Blog Post,” my first project for Udacity’s Nanodegree Data Science Program. Thank Udacity for encouraging to develop this work, my family for giving me the support I need to study, and my teacher and friend Rodrigo Veloso for his guidance.
+This article was developed for the “Write a Data Science Blog Post”, my first project for the Udacity Data Science Nanodegree Program. I would like to thank Udacity for encouraging me to develop this work, my family for giving me the support I need to study, and my professor and friend Rodrigo Veloso for his guidance.
 
 Juliano Oliveira
