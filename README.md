@@ -51,8 +51,8 @@ Through the notebook file, I answered the questions following the CRISP-DM Proce
 By analyzing the data from these five aspects (economy, education, health, corruption, and government regime), it was possible to analyze the correlations among countries, and understand the different mortality rates of COVID-19 in the world.
 
 All the explanation and findings are available at the folowing posts:
-[https://datacg.net/data-science/five-aspects-affecting-covid-19-death-rate](https://datacg.net/data-science/five-aspects-affecting-covid-19-death-rate)
-[https://datacgi.medium.com/five-aspects-affecting-covid-19-death-rate-9f5758a62ef1)](https://datacgi.medium.com/five-aspects-affecting-covid-19-death-rate-9f5758a62ef1)
+- [datacg.net](https://datacg.net/data-science/five-aspects-affecting-covid-19-death-rate)
+- [medium.com](https://datacgi.medium.com/five-aspects-affecting-covid-19-death-rate-9f5758a62ef1)
 
 ## Acknowledgements<a name="acknowledgements"></a>
 
