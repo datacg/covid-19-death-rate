@@ -44,7 +44,7 @@ Datasets available in this repository:
 - ["health.csv" (The 2021 STC Health Index (Hudson's Global Residence Index)](https://globalresidenceindex.com/hnwi-index/health-index/)
 - ["demo.csv" (Democracy Index 2020 (The Economist Intelligence Unit)](https://www.eiu.com/n/campaigns/democracy-index-2020/)
 
-The notebook file is more technical. I answered the questions following the CRISP-DM Process (1. Understanding Business, 2. Understanding Data, 3. Preparing Data, 4. Modeling Data, 5. Evaluate the Results, and 6. Implement). You can find all analyzes of the data and the conclusion in the post (link below).  
+Through the notebook file, I answered the questions following the CRISP-DM Process (1. Understanding Business, 2. Understanding Data, 3. Preparing Data, 4. Modeling Data, 5. Evaluate the Results, and 6. Implement). You can find all analyzes of the data and the conclusion in the post (link below).  
 
 ## Results<a name="results"></a>
 
